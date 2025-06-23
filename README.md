@@ -105,7 +105,8 @@ We welcome contributions! If you have any ideas, suggestions, or bug reports, pl
 
 ## Contact 📧
 
-For any questions or feedback, feel free to reach out:
+For any questions or feedback:
+feel free to reach out:
 
 - **GitHub**: [yteicos-ItNa07/chauxin](https://github.com/yteicos-ItNa07. /https://github.com/chauxin)
 - **Email**: [julietsui07@gmail.com/chauxxin@gmail.com]
